@@ -1,7 +1,7 @@
 # Dog Breed Identification using CNN Model
 
 ## Overview
-This project implements a Convolutional Neural Network (CNN) model to classify dog breeds. The model achieves an accuracy of 99% on a dataset containing 139 different dog breeds. The implementation is based on the Scharet architecture.
+This project implements a Convolutional Neural Network (CNN) model to classify dog breeds. The model achieves an accuracy of 99% on a dataset containing 200 different dog breeds. The implementation is based on the Scharet architecture.
 
 ## Dataset
 The dataset is organized into training, validation, and test sets. It comprises a total of 200 dog breeds, with images for each breed provided in separate directories.
